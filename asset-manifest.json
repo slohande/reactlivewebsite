@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.922c6a00.css",
+    "main.js": "/reactlivewebsite/static/js/main.e2c4f6bf.js",
+    "static/js/787.28cb0dcd.chunk.js": "/reactlivewebsite/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Food.png": "/reactlivewebsite/static/media/Food.bcc3b068279b66f36d37.png",
+    "static/media/Pngtree.png": "/reactlivewebsite/static/media/Pngtree.f79ef40c75c553447964.png",
+    "static/media/leaf.png": "/reactlivewebsite/static/media/leaf.6edbf9cb9ffa096a4b2a.png",
+    "static/media/app.PNG": "/reactlivewebsite/static/media/app.5f3468c3939ed31f9f6d.PNG",
+    "static/media/plate.PNG": "/reactlivewebsite/static/media/plate.85b76e5979c3d681cb0d.PNG",
+    "static/media/Rect5.PNG": "/reactlivewebsite/static/media/Rect5.f23255e29082a5e9365c.PNG",
+    "index.html": "/reactlivewebsite/index.html",
+    "main.922c6a00.css.map": "/reactlivewebsite/static/css/main.922c6a00.css.map",
+    "main.e2c4f6bf.js.map": "/reactlivewebsite/static/js/main.e2c4f6bf.js.map",
+    "787.28cb0dcd.chunk.js.map": "/reactlivewebsite/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.922c6a00.css",
+    "static/js/main.e2c4f6bf.js"
+  ]
+}
